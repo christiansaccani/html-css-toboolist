@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f6f8f9;
+}
+
+/* inizio nav */
+
+nav {
+    background-color: white;
+}
+
+#logo {
+    vertical-align: middle;
+    margin: 15px 0px 25px 15px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 2em;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+/* fine nav */
