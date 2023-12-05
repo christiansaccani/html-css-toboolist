@@ -38,7 +38,7 @@ main {
 
 #buttons {
     padding: 20px 0px 10px 75px;
-    border-bottom: #f6f8f9 2px solid;
+    border-bottom: #f6f8f9 5px solid;
 }
 
 .button {
@@ -146,6 +146,28 @@ p {
     color: white;
     font-size: 0.8em;
     background-color: #f19726;
+    margin-left: 10px;
+    text-align: center;
+    padding: 7px 12px;
+    border-radius: 25px;
+}
+
+.garden-website {
+    display: inline-block;
+    color: white;
+    font-size: 0.8em;
+    background-color: #d863a1;
+    margin-left: 10px;
+    text-align: center;
+    padding: 7px 12px;
+    border-radius: 25px;
+}
+
+.garden-sales {
+    display: inline-block;
+    color: white;
+    font-size: 0.8em;
+    background-color: #b0c926;
     margin-left: 10px;
     text-align: center;
     padding: 7px 12px;
