@@ -27,3 +27,36 @@ h1 {
 }
 
 /* fine nav */
+
+main {
+    margin: 50px 150px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+/* inizio sezione bottoni */
+
+#buttons {
+    padding: 20px 0px 10px 75px;
+    border-bottom: #c7cdd2 2px solid;
+}
+
+.button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.task {
+    background-color: #47adf1;
+    color: white;
+    border-color: #47adf1;
+}
+
+.section {
+    background-color: white;
+    color: #c7cdd2;
+    border-color: #c7cdd2;
+}
+
+/* fine sezione bottoni */
