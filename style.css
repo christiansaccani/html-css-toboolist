@@ -62,6 +62,7 @@ main {
 /* fine sezione bottoni */
 /* inizio checklist */
 
+
 .checklist {
     padding: 20px 0px 20px 75px;
 }
@@ -89,6 +90,7 @@ p {
     padding-bottom: 20px;
     margin-right: 10px;
 }
+
 
 .cross {
     display: inline-block;
@@ -149,4 +151,3 @@ p {
     padding: 7px 12px;
     border-radius: 25px;
 }
-
