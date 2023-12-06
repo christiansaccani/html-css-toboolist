@@ -76,7 +76,11 @@ h2 {
     padding-bottom: 10px;
 }
 
-p {
+ul {
+    list-style: none;
+}
+
+li {
     margin-bottom: 10px;
 }
 
