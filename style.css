@@ -11,19 +11,20 @@ body {
 
 /* inizio nav */
 
-nav {
+head {
     background-color: white;
 }
 
 #logo {
     vertical-align: middle;
-    margin: 15px 0px 25px 15px;
+    margin: 15px 0px 15px 15px;
 }
 
 h1 {
     display: inline-block;
     font-size: 2em;
     font-weight: 700;
+    vertical-align: middle;
 }
 
 /* fine nav */
@@ -43,8 +44,10 @@ main {
 
 .button {   
     padding: 10px 15px;
-    border-radius: 5px;
+    border-radius: 6px;
     font-weight: bold;
+    background-color: transparent;
+    border:black 2px solid;
 }
 
 /* prima cancello il border default del botton, poi aggiungo il mio */
@@ -52,15 +55,13 @@ main {
 .task {
     background-color: #47adf1;
     color: white;
-    border: none;
-    border: 2px solid #47adf1;
+    border-color: #47adf1;
 }
 
 .section {
     background-color: white;
     color: #c7cdd2;
-    border: none;
-    border: 2px solid #c7cdd2;
+    border-color: #c7cdd2;
 }
 
 /* fine sezione bottoni */
