@@ -32,7 +32,7 @@ h1 {
 main {
     margin: 50px 150px;
     background-color: white;
-    border-radius: 50px;
+    border-radius: 15px;
 }
 
 /* inizio sezione bottoni */
@@ -47,18 +47,18 @@ main {
     border-radius: 6px;
     font-weight: bold;
     background-color: transparent;
-    border:black 2px solid;
+    border: 2px solid;
 }
 
 /* prima cancello il border default del botton, poi aggiungo il mio */
 
-.task {
+.b-task {
     background-color: #47adf1;
     color: white;
     border-color: #47adf1;
 }
 
-.section {
+.b-section {
     background-color: white;
     color: #c7cdd2;
     border-color: #c7cdd2;
@@ -67,9 +67,13 @@ main {
 /* fine sezione bottoni */
 /* struttura checklist */
 
+section {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
 
 .checklist {
-    padding: 15px 0px 20px 75px;
+    padding: 0px 0px 25px 75px;
 }
 
 ul {
@@ -77,7 +81,7 @@ ul {
 }
 
 li {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 /* check and cross */
