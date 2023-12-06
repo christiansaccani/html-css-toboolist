@@ -72,16 +72,12 @@ main {
     padding: 15px 0px 20px 75px;
 }
 
-h2 {
-    margin-bottom: 10px;
-}
-
 ul {
     list-style: none;
 }
 
 li {
-    margin-bottom: 10px;
+    margin-top: 15px;
 }
 
 /* check and cross */
